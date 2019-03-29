@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dierooghi.beckytarbottonscholarship.org/sitemap.xml
